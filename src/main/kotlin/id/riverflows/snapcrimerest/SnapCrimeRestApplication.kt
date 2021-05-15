@@ -8,4 +8,5 @@ class SnapCrimeRestApplication
 
 fun main(args: Array<String>) {
 	runApplication<SnapCrimeRestApplication>(*args)
+	//dummy change
 }
