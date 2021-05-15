@@ -2,3 +2,7 @@
 	path = snapcrime-android
 	url = https://github.com/ahnanfuadwijaya/snapcrime-android
 	branch = master
+[submodule "snapcrime-rest"]
+	path = snapcrime-rest
+	url = https://github.com/ahnanfuadwijaya/snapcrime-rest
+	branch = master
