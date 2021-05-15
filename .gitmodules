@@ -1,0 +1,4 @@
+[submodule "snapcrime-android"]
+	path = snapcrime-android
+	url = https://github.com/ahnanfuadwijaya/snapcrime-android
+	branch = master
