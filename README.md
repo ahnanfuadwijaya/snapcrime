@@ -4,7 +4,8 @@
 - Android Module
 
 ## Backend Module
-- Detect sharp and firearm object 
+- Detect sharp and firearm objects
+- Send push notification to client 
 - Provid RESTFUL API
 
 ## Android Module
