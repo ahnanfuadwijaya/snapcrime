@@ -1,5 +1,5 @@
 # SnapCrime
-## Root project repository of SnapCrime
+## SnapCrime Root Project Repository
 - Backend Module
 - Android Module
 
